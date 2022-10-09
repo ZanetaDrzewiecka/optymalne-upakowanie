@@ -44,3 +44,14 @@ Symulacja została przeprowadzona dla nastepujących parametrów:
   **-** $wys$ = 10 
   
   **-** $Nf$ = 1000
+  
+Wynik symulacji:
+
+![image](https://user-images.githubusercontent.com/105323115/194775791-3c63960e-5e7b-4dac-b489-18798668a2d3.png)
+
+Histogram przedstawiający liczbę figur, które udało się upakować w zadanych obszar:
+
+![image](https://user-images.githubusercontent.com/105323115/194775818-cc9a874b-d18e-40de-981d-54f55c79fd43.png)
+
+
+
